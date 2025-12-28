@@ -17,7 +17,7 @@ body{
   background: linear-gradient(rgb(165,165,165), rgb(194,255,174));
   color:white;
   border-radius: 15px;
-  max-width: 450px;
+  /*max-width: 450px;*/
   overflow: hidden;
 }
 
